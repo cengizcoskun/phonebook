@@ -1,2 +1,2 @@
 # phonebook
-Simple PHP application to manage phonebook.
+Simple PHP phonebook application.
